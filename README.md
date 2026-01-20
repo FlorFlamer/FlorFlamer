@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<a href="https://modrinth.com/organization/ui-flamer"><img src="https://modrinth-embeds.creeperkatze.de/organization/ui-flamer" alt="Flamer UI" /></a>
 <!--
 **FlorFlamer/FlorFlamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
