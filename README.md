@@ -1,9 +1,11 @@
 <!-- Banner (opcional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Florus%20%F0%9F%8E%A8&fontAlign=50&fontAlignY=35&desc=2D%20Animator%20%7C%20Motion%20%7C%20World%20%26%20Character%20Design&descAlign=50&descAlignY=60" />
+<p align="center" style="margin-bottom: 0;">
+  <img src="./favicon.ico" width="60" />
 </p>
 
-<h2 align="center">Hey! 👋 FlorFlamer aqui :D</h2>
+<h2 align="center" style="margin-top: 0;">
+  Hey! 👋 FlorFlamer aqui :D
+</h2>
 
 <p align="center">
   🎬 Animação 2D • ✨ Motion/FX • 🧩 World & Character Design • ⌨️ Coder (hobbies)<br/>
