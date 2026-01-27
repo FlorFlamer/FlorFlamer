@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/afonso-flor%C3%AAncio-4094a4356"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://florflamer.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white"></a>
-  <a href="contactflorflamer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-555555?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/afonso-flor%C3%AAncio-4094a4356" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://florflamer.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white"></a>
+  <a href="contactflorflamer@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-555555?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -34,10 +34,10 @@
 **Outros:** Git / VS Code
 
 <p>
-  <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?logo=nextdotjs&logoColor=white"></a>
-  <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-111111?logo=react&logoColor=61DAFB"></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
-  <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"></a>
+  <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?logo=nextdotjs&logoColor=white"></a>
+  <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-111111?logo=react&logoColor=61DAFB"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"></a>
 </p>
 
 ---
