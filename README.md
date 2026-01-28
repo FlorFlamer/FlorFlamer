@@ -10,7 +10,7 @@
 <p align="center">
   🎬 Animação 2D • ✨ Motion/FX • 🧩 World & Character Design • ⌨️ Coder (hobbies)<br/>
   A construir coisas para fazer os teus olhos brilharem <br/>
-  (e às vezes queimarem ... desculpas adiantas hehe).
+  (e às vezes queimarem ... desculpas adiantadas hehe).
 </p>
 
 <p align="center">
